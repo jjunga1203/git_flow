@@ -7,5 +7,5 @@ for i in range(1, 11):
 for i in range(11, 21):
     print(i)
 
-for i in range(21, 30):
+for i in range(21, 31):
     print(i)
